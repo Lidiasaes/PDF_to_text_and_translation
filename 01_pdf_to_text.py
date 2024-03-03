@@ -49,6 +49,6 @@ def pdf_to_txt(pdf_path, txt_path, sentence_sep=1):
 
 
 
-pdf_path = r"C:\Users\User\OneDrive\Desktop\programme_pdf_to_text_translate\input_data\Frankenstein_spanish.pdf"
-txt_path = r"C:\Users\User\OneDrive\Desktop\programme_pdf_to_text_translate\output_data\Frankenstein_spanish.txt"
+pdf_path = r # 'mypath/doc.pdf' PATH TO YOUR .PDF FILE
+txt_path = r # PATH TO YOUR .TXT FILE, example: 'mypath/doc.txt' 
 pdf_to_txt(pdf_path, txt_path, sentence_sep=2)
